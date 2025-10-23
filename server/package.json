@@ -1,0 +1,13 @@
+{
+  "name": "livetext-server",
+  "version": "1.0.0",
+  "description": "Standalone server for LiveText Chrome Extension",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["livetext", "localhost", "editor"],
+  "author": "",
+  "license": "MIT"
+}
+
